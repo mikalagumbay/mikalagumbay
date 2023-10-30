@@ -1,9 +1,8 @@
 # 💫 About Me:
-୨୧ Currently seeking internships in software development<br>₊˚⊹♡ 2nd year Software Engineering undergraduate student at CSUMB
-
+୨୧ Currently seeking internships in software development<br>₊˚⊹♡ 2nd year Software Engineering undergraduate student at California State University of Monterey Bay (CSUMB).
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mikaela-lagumbay-96b432249) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikaela-lagumbay-96b432249)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
